@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GMMAT"]
+	path = GMMAT
+	url = https://github.com/hanchenphd/gmmat
+	shallow = true
+	registered = true
