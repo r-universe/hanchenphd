@@ -8,3 +8,13 @@
 	url = https://github.com/hanchenphd/gmmat
 	shallow = true
 	registered = true
+[submodule "MAGEE"]
+	path = MAGEE
+	url = https://github.com/cran/MAGEE
+	shallow = true
+	registered = true
+[submodule "mvtmeta"]
+	path = mvtmeta
+	url = https://github.com/cran/mvtmeta
+	shallow = true
+	registered = true
