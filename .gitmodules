@@ -7,7 +7,7 @@
 	url = https://github.com/hanchenphd/gmmat
 [submodule "MAGEE"]
 	path = MAGEE
-	url = https://github.com/cran/MAGEE
+	url = https://github.com/hanchenphd/magee
 [submodule "mvtmeta"]
 	path = mvtmeta
 	url = https://github.com/cran/mvtmeta
